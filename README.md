@@ -32,16 +32,6 @@ B.Tech Artificial Intelligence & Data Science Student passionate about building 
 
 ---
 
-<div align="center">
-
-### Quick Navigation
-
-| Home | Projects | Resume | Portfolio | Contact |
-|:----:|:--------:|:------:|:---------:|:-------:|
-| [About](#-about-me) | [Projects](#-featured-projects) | [Resume](#-resume) | [Portfolio](#-portfolio) | [Connect](#-connect-with-me) |
-
-</div>
-
 ---
 
 # Why I Build Software
