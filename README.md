@@ -1,218 +1,128 @@
-# 👋 Hi, I'm Sabari Sekaran
+<!-- ======================================================= -->
+<!--                    HERO SECTION                         -->
+<!-- ======================================================= -->
 
-```{=html}
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sabari Sekaran
+</h1>
+
+<h3 align="center">
+Artificial Intelligence & Data Science Student
+<br>
+Full Stack Developer • Desktop Application Developer • AI Enthusiast
+</h3>
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Data+Science+Student;Full+Stack+Developer;Desktop+Application+Developer;Workflow+Automation+Builder;Always+Learning+Something+New" />`{=html}
-```{=html}
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=F7C948&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Desktop+Application+Builder;Workflow+Automation+Engineer;Building+Scalable+Software;Always+Learning+Something+New"/>
+
 </p>
-```
-```{=html}
+
+---
+
 <p align="center">
-```
-`<a href="https://sabarisekaran-portfolio.vercel.app/">`{=html}`<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">`{=html}`</a>`{=html}
-`<a href="https://github.com/Sabarisekaran/my_resume">`{=html}`<img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=github">`{=html}`</a>`{=html}
-`<a href="https://www.linkedin.com/in/sabari-sekaran-mu-9238032a3/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">`{=html}`</a>`{=html}
-`<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">`{=html}`</a>`{=html}
-```{=html}
+
+<a href="https://sabarisekaran-portfolio.vercel.app">
+
+<img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+<a href="https://github.com/Sabarisekaran/my_resume">
+
+<img src="https://img.shields.io/badge/📄 Resume-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/sabari-sekaran-mu-9238032a3/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://github.com/Sabarisekaran">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
 </p>
-```
-```{=html}
+
+---
+
 <p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=Sabarisekaran&style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/github/followers/Sabarisekaran?style=for-the-badge"/>`{=html}
-```{=html}
+
+<img src="https://komarev.com/ghpvc/?username=Sabarisekaran&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/Sabarisekaran?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Sabarisekaran?affiliations=OWNER&style=for-the-badge"/>
+
 </p>
+
+---
+
+## 💫 About Me
+
+```yaml
+Name: Sabari Sekaran
+
+Education:
+  - B.Tech Artificial Intelligence & Data Science
+
+Current Focus:
+  - MERN Stack Development
+  - AI & Machine Learning
+  - Desktop Application Development
+  - Workflow Automation
+  - System Design
+
+Learning:
+  - AWS
+  - Docker
+  - CI/CD
+  - AI Automation
+  - LLM Applications
+
+Goal:
+  Build intelligent workflow-driven software that solves
+  real-world problems using scalable architectures.
 ```
 
-------------------------------------------------------------------------
+---
 
-## 🚀 About Me
+## 🚀 Current Status
 
--   🎓 B.Tech Artificial Intelligence & Data Science
--   💻 Full Stack Developer (MERN)
--   🤖 AI & ML Enthusiast
--   🖥️ Desktop Application Developer (.NET / WinForms)
--   🌱 Currently learning AWS, System Design, AI Automation
--   🎯 Goal: Build intelligent workflow-driven software
+```text
+🟢 Building → PLANORA
 
-------------------------------------------------------------------------
+🟢 Learning → AWS • Docker • System Design
 
-## ⚡ Tech Stack
+🟢 Solving → LeetCode Daily
 
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,react,nodejs,express,mongodb,js,ts,html,css,tailwind,dotnet,docker,git,github,aws,vscode"/>`{=html}
-```{=html}
-</p>
+🟢 Looking for → AI / Full Stack Internship
+
+🟢 Goal → Become Product Engineer
 ```
 
-------------------------------------------------------------------------
+---
 
-# 📊 GitHub Analytics
+## 🌍 Portfolio
 
-```{=html}
-<p align="center">
-```
-`<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sabarisekaran&show_icons=true&theme=tokyonight"/>`{=html}
-`<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabarisekaran&layout=compact&theme=tokyonight"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img width="60%" src="https://streak-stats.demolab.com?user=Sabarisekaran&theme=tokyonight"/>`{=html}
-```{=html}
-</p>
-```
+**Portfolio**
 
-------------------------------------------------------------------------
+https://sabarisekaran-portfolio.vercel.app/
 
-# 🏆 GitHub Trophies
+**Resume**
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=Sabarisekaran&theme=tokyonight&no-frame=true&row=1&column=7"/>`{=html}
-```{=html}
-</p>
-```
+https://github.com/Sabarisekaran/my_resume
 
-------------------------------------------------------------------------
+**LinkedIn**
 
-# 📈 Contribution Graph
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabarisekaran&theme=tokyo-night"/>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action from **Platane/snk** and replace the image
-> below after setup.
-
-``` md
-![Snake](https://raw.githubusercontent.com/Sabarisekaran/Sabarisekaran/output/github-contribution-grid-snake.svg)
-```
-
-------------------------------------------------------------------------
-
-# 💻 LeetCode
-
-Replace `YOUR_LEETCODE_USERNAME`.
-
-``` md
-https://leetcode.com/u/YOUR_LEETCODE_USERNAME/
-```
-
-Add:
-
--   🔥 Daily Streak
--   📊 Easy / Medium / Hard solved
--   🏅 Contest Rating
--   📅 Submission Calendar
-
-------------------------------------------------------------------------
-
-# 🚀 Featured Projects
-
-## PLANORA
-
--   MERN Event Workflow Platform
--   QR Verification
--   AI Chat
--   Dashboard Analytics
--   Workflow Automation
-
-**Stack:** React • Node.js • MongoDB • Tailwind CSS
-
-------------------------------------------------------------------------
-
-## Railax
-
-Desktop workflow application.
-
-**Stack:** WinForms • .NET
-
-------------------------------------------------------------------------
-
-## Billing Management
-
-Business billing desktop software.
-
-**Stack:** WinForms • .NET
-
-------------------------------------------------------------------------
-
-## Vehicle Management
-
-React + Node + MongoDB workflow platform.
-
-------------------------------------------------------------------------
-
-## AI Image Captioning
-
-Transformer-based image caption generator.
-
-**Stack:** Python • Flask • PyTorch
-
-------------------------------------------------------------------------
-
-# 📅 Developer Journey
-
-``` text
-2024 → Python, Java, Frontend, AI
-2025 → MERN, Desktop Apps, ML Projects
-2026 → PLANORA, AI Integration, System Design
-```
-
-------------------------------------------------------------------------
-
-# 📚 Currently Learning
-
--   AWS
--   Docker
--   CI/CD
--   System Design
--   LLM Applications
--   AI Automation
-
-------------------------------------------------------------------------
-
-# 🎯 2026 Goals
-
--   ✅ 300+ LeetCode Problems
--   ✅ Strong Open Source Profile
--   ✅ Internship in AI / Full Stack
--   ✅ Production-grade Projects
--   ✅ GATE DA Preparation
-
-------------------------------------------------------------------------
-
-# 📫 Connect
-
--   🌐 Portfolio: https://sabarisekaran-portfolio.vercel.app/
--   💼 LinkedIn:
-    https://www.linkedin.com/in/sabari-sekaran-mu-9238032a3/
--   💻 GitHub: https://github.com/Sabarisekaran
-
-------------------------------------------------------------------------
-
-```{=html}
-<p align="center">
-```
-⭐ If you like my work, consider starring my repositories!
-
-"Building scalable software with AI, one project at a time."
-```{=html}
-</p>
-```
+https://www.linkedin.com/in/sabari-sekaran-mu-9238032a3/
