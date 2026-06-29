@@ -34,102 +34,45 @@ B.Tech Artificial Intelligence & Data Science Student passionate about building 
 
 ---
 
-# Why I Build Software
+<!-- ===================================================== -->
+<!--                      ABOUT                            -->
+<!-- ===================================================== -->
 
-> I enjoy designing software that simplifies real-world workflows through modern engineering, clean architecture, and practical Artificial Intelligence solutions.
-
----
-
-<div align="center">
-
-```text
-Artificial Intelligence
-            │
-            ▼
-Full Stack Engineering
-            │
-            ▼
-Workflow Automation
-            │
-            ▼
-Scalable Applications
-```
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                       ABOUT ME                             -->
-<!-- ========================================================= -->
-
-# About Me
+<h2 align="center">About</h2>
 
 <table>
-
 <tr>
 
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-### Hello 👋
+### Hi, I'm Sabari 👋
 
-I'm **Sabari Sekaran**, an **Artificial Intelligence & Data Science undergraduate** with a strong interest in building software that combines modern engineering practices with practical AI solutions.
+I'm an **Artificial Intelligence & Data Science student** who enjoys building software that solves real-world problems.
 
-My interests include:
+My work combines **AI**, **Full Stack Development**, and **Desktop Applications** to create scalable, workflow-driven solutions.
 
-- Artificial Intelligence
-- Full Stack Development
-- Desktop Application Development
-- Workflow Automation
-- System Design
-- Modern UI Development
-
-Currently focusing on improving my knowledge in:
-
-- Data Structures & Algorithms
-- Backend Architecture
-- Cloud Computing
-- Deep Learning
-- Software Design
+Currently building **PLANORA** while improving my skills in **System Design**, **Cloud**, and **Artificial Intelligence**.
 
 </td>
 
-<td width="40%" valign="top">
+<td width="35%" valign="top">
 
-## Snapshot
+<img src="https://img.shields.io/badge/Current_Project-PLANORA-D4A017?style=for-the-badge"/>
 
-```text
-Role
-──────
-AI & DS Student
+<br><br>
 
-Current Focus
-──────────────
-PLANORA
+<img src="https://img.shields.io/badge/Open_To-Internships-success?style=for-the-badge"/>
 
-Primary Stack
-──────────────
-React
-Node.js
-MongoDB
-Python
-.NET
+<br><br>
 
-Learning
-──────────────
-Docker
-AWS
-System Design
-```
+<img src="https://img.shields.io/badge/Based_In-India-181717?style=for-the-badge"/>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
-
 <!-- ========================================================= -->
 <!--                  PORTFOLIO & RESUME                        -->
 <!-- ========================================================= -->
