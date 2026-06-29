@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/github/stars/Sabarisekaran?affiliations=OWNER&style=for-the-badge&logo=github&color=D4A017&labelColor=000000" />
 
-<img src="https://komarev.com/ghpvc/?username=Sabarisekaran&style=for-the-badge&color=D4A017"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Sabarisekaran&style=for-the-badge&color=D4A017"/> -->
 
 <br><br>
 
